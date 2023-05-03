@@ -6,3 +6,12 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+linfa = "*"
+ndarray = "*"
+ndarray-csv = "*"
+csv = "*"
+flate2 = "*"
+thiserror = "*"
+linfa-datasets = "*"
+linfa-svm = "*"
+linfa-preprocessing = "*"
